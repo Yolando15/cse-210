@@ -39,5 +39,7 @@ class Program
                 caderno.SaveEntries();
             }
         }while (escolha !=5);
+        //Lets see if this works
+        Console. WriteLine("Now Your journal is done.");
     }
 }
