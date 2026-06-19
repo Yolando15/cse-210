@@ -20,7 +20,7 @@ class Program
         }
         else if (choice==2)
         {
-            favorite=new Scripture("D&C", "93", "36", "The glor of God is intelligence, or, in ohhter owrds, light and truth.");
+            favorite=new Scripture("D&C", "93", "36", "The glor of God is intelligence, or, in other owrds, light and truth.");
 
         }
         else if (choice==3)

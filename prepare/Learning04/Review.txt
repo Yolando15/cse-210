@@ -1,0 +1,13 @@
+abstraction
+
+class
+object
+
+attibutes       varible state
+methods: constructor, initialized an object (isntance of a class)
+something it does with an attribute.
+
+Encapsulation
+exclusivity (accessibility)
+methods constructorgetter "reads private"
+setter "mutates" private stuff
