@@ -27,6 +27,6 @@ class Program
         double areaC = C.GetArea();
         Console.WriteLine($"{colorC}");
         Console.WriteLine($"{areaC}");
-
+  
     }
 }
