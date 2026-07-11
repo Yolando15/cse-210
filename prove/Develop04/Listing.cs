@@ -19,7 +19,13 @@ public class Listing : Activity
 
         while (timer.Elapsed.TotalSeconds < _time)
         {
+            
             string entry = Console.ReadLine();
+                
+             if (timer.Elapsed.TotalSeconds>_time)
+            {
+                entry = null;
+            }
             _responses.Add(entry);
         }
     }
